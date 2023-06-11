@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: gcp-devopd-gke
+  name: gcp-devops-gke
 spec:
   replicas: 1
   selector:
